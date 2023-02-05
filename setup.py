@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='dominant_image_color',
-    version='1.0.0',
+    version='1.0.1',
     description='Get the most frequent color from an image',
     long_description=long_description,
     long_description_content_type="text/markdown",
